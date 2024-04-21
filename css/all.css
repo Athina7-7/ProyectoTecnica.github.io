@@ -1,0 +1,33 @@
+h1{
+    color: #82BB27;
+    font-size: 50px;  
+  }
+  
+h2{
+  color: #82BB27;
+  font-size: 50px;
+}
+  
+h4{
+  color: #5d9700;
+  font-size: 25px;
+}
+  
+h2:hover {
+  background: #231D1F;
+}
+
+.restoClase {
+  position: relative;
+  left: 410px;
+}
+
+#button_cerrar{
+  background-color: transparent;
+  color: aliceblue;
+  border: none;
+  padding: 20px;
+  font-size: 20px;
+  font-family: Segoe UI, Frutiger, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
+
+}

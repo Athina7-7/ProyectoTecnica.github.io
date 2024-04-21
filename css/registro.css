@@ -1,0 +1,41 @@
+.formulario{
+    background-color: #231D1F;
+    border-radius: 25px;
+    position: relative;
+    padding: 50px;
+    left: 350px;
+    color: aliceblue;
+}
+
+.formulario a{
+    color: #82BB27;   
+}
+
+input{
+    border-radius: 25px;
+    font-family: Segoe UI, Frutiger, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.enviar{
+    width: 100px;
+    height: 50px;
+    color: #231D1F;
+    background-color: #82BB27;
+}
+
+
+#registroHeader{
+    text-align: left;
+    display:inline-block;
+    position: relative;
+    left: 600px;
+}
+#ImgbannerRegistro{
+    width: 80px;
+    border-radius: 50%;
+    position: relative;
+    right: 400px;
+    top: -10px;
+}
